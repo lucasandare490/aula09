@@ -2,7 +2,7 @@
 
 ## Informações Gerais
 - **Data de Execução**: 22/11/2024
-- **Aluno**: Lucas andre 
+- **Aluno**: Lucas andre 07
 # Configuração do Projeto com Reactstrap
 
 ## Passos Realizados
@@ -62,7 +62,7 @@ Por fim, alterei o nome dentro da <div> de "Aluno: Fulano de Tal" para "Aluno: P
 <Navbar dark color="primary">
   <div className="container">
     <NavbarBrand href="/">Ristorante Con Fusion</NavbarBrand>
-    <div>Aluno: Pedro Lucas</div>
+    <div>Aluno: Lucas andre</div>
   </div>
 </Navbar>
 
